@@ -8,7 +8,7 @@
     <li> <h6><a href='https://github.com/Jhenderson19/pacman'>Pacman</a> (In active development!) </h6> </li>
     <li> <h6><a href='https://github.com/Jhenderson19/mvp'>Cube Of Chaos - A D&D Companion App</a> </h6> </i>
     <li> <h6>Mock - Steam Store : <a href='https://github.com/rpt26-fec-pathfinder/james-metadata-service'>(Metadata Service)</a> <a href='https://github.com/rpt26-fec-pathfinder/james-proxy'>(Proxy)</a> </li>
-    <li> <h6>Mock - Coursera: <a href='https://github.com/rpt26-sdc-factory/james-about-service'>(Metadata Service)</a> <a href='https://github.com/rpt26-sdc-factory/james-proxy'>(Proxy)</a> <li>
+    <li> <h6>Mock - Coursera: <a href='https://github.com/rpt26-sdc-factory/james-about-service'>(Metadata Service)</a> <a href='https://github.com/rpt26-sdc-factory/james-proxy'>(Proxy)</a> </li>
   </ul>
 
 </p>
