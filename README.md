@@ -15,6 +15,8 @@
 ### Tech Stack
 
 <p>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-f7921e?logo=PHP&logoColor=black&style=for-the-badge" />
+  
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge" />
 
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-088A51?logo=Node.js&logoColor=white&style=for-the-badge" />
