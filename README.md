@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile!
 
 <p>
-  You've found <strong>James Henderson's</strong> Github Profile! I'm a fullstack engineer from Newark, Delaware! Currently working as a CW Software Engineer for Meta's Fixed Assets team though K2 Partnering Solutions. Additionally, check out a few of my favorite repos!
+  You've found <strong>James Henderson's</strong> Github Profile! I'm a fullstack engineer from Newark, Delaware! Most recently worked as a CW Software Engineer for Meta's Fixed Assets team though K2 Partnering Solutions. Additionally, check out a few of my favorite repos!
   <ul>
     <li> <h6><a href='https://github.com/Jhenderson19/pacman'>Pacman</a></h6> </li>
     <li> <h6><a href='https://github.com/Jhenderson19/mvp'>Cube Of Chaos - A D&D Companion App</a> </h6> </li>
